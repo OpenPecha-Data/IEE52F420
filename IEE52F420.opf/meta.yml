@@ -1,0 +1,23 @@
+id: IEE52F420
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+source_file: null
+initial_creation_type: input
+imported: '2022-05-27T14:53:04.528799'
+last_modified: '2022-05-27T14:53:04.528814'
+parser: null
+source_metadata:
+  title: 'BA: Daśabhūmikasūtra'
+  language: en
+  base:
+    fCC81:
+      title: Complete text
+      base_file: fCC81.txt
+      order: 1
+  chapter_to_tile: {}
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null

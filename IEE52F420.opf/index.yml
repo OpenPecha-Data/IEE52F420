@@ -1,0 +1,9 @@
+id: 9c111299783647c181c0ae6fbd09e07a
+annotation_type: index
+revision: '00001'
+annotations:
+  87dbcd117c654a1eb4ebd4effc786716:
+    base: fCC81.txt
+    span:
+      start: 0
+      end: 21997
